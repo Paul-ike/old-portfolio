@@ -98,7 +98,10 @@ hr {
     float: right;
     margin-left: 30px;
 }
-
+i{
+    padding: 3%;
+    color: #DBA39A;
+}
 .call{
     height: 150px;
     width: 150px;
@@ -117,17 +120,18 @@ hr {
     color: #11999E;
 }
 a {
-    color: #11999E;
+    color: #FFEBAD;
     margin: 10px 20px;
     font-family: 'Dosis', sans-serif;
     text-decoration: none;
+    font-size: 1.5rem;
 }
 a:hover{
-    color: #EAF6F6;
+    color: #3D5656;
 }
 .c{
     color: #EAF6F6;
-    font-size: 0.75rem;
+    font-size: 1rem;
     padding: 20px 0;
 }
 
